@@ -21,6 +21,16 @@ Install as local npm package to you project
  
 ```
 
+link it 
+```
+ npm link gizmo-graph
+```
+
+install 
+```
+npm install
+```
+
 inside your code
 
 ```javascript
