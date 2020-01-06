@@ -5,5 +5,8 @@ node_modules
 *.iml
 .idea/
 
+#ExampleFiles
+Examples/
+
 # NetBeans files
 **/nbproject/**
