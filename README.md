@@ -38,5 +38,5 @@ import GizmoGraph from 'gizmo-graph';
 const test= new GizmoGraph();
 test.sayHello();
 
-console output : "Hello World"
+//console output : "Hello World"
 ```

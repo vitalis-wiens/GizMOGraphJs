@@ -11,5 +11,8 @@
     "vis"
   ],
   "author": "Vitalis Wiens",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "d3": "^5.12.0"
+  }
 }
